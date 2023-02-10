@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![mf-cpc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mf-cpc)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mf-cpc/mf-cpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
